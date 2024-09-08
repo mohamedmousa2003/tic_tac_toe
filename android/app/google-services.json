@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81488662155",
+    "project_id": "tic-tac-to-e94e1",
+    "storage_bucket": "tic-tac-to-e94e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81488662155:android:007993b0edb8362b9a4e8e",
+        "android_client_info": {
+          "package_name": "com.example.xo_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMhzGGkyc744lPWdOIfW-RMJp-K87Kmxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
