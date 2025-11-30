@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🎥 Demo Video
 [Click here to watch the demo](WhatsApp%20Video%202025-11-30%20at%2021.56.48_4f940ec57.mp4)
+
+
+## 🎥 Demo Video
+
+<video width="100%" controls>
+  <source src="WhatsApp%20Video%202025-11-30%20at%2021.56.48_4f940ec57.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
