@@ -27,6 +27,7 @@ A mobile Tic-Tac-Toe game built with Flutter, supporting **Arabic, English, and 
 ## License
 This project is open-source and free to use for educational purposes.
 
-[Watch the demo video](https://github.com/mohamedmousa2003/tic_tac_toe/blob/master/WhatsApp%20Video%202025-11-30%20at%2021.56.48_4f940c57.mp4)
+[![Watch the demo](assets/images/video_thumbnail.png)](https://github.com/username/repo/blob/main/assets/video/WhatsApp%20Video%202025-11-30%20at%2021.56.48_4f940c57.mp4)
+
 
 
