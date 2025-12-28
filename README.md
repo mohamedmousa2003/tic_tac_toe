@@ -1,27 +1,28 @@
-# xo_game
+# XO Game – Multi-Language Tic-Tac-Toe
 
-A new Flutter project.
+A mobile Tic-Tac-Toe game built with Flutter, supporting **Arabic, English, and German languages**. The app allows players to enjoy the classic XO game with friends or against the computer, featuring user authentication and a polished UI.
 
-## Getting Started
+## Key Features
+- **Multi-Language Support:** Arabic, English, and German for international users.
+- **Authentication:** Integrated with Firebase Auth for secure login and registration.
+- **Splash Screen:** Engaging splash screen for better user experience.
+- **Game Modes:**
+  - **Player vs Player:** Play against a friend locally.
+  - **Player vs Computer:** Challenge the AI with adjustable difficulty.
+- **Responsive UI:** Optimized for different screen sizes and orientations.
+- **Fun and Interactive:** Classic Tic-Tac-Toe gameplay with smooth animations.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter & Dart**
+- **Firebase Authentication**
+- **Provider / Bloc (optional)**
+- **Localization Support (i18n)**
 
-A few resources to get you started if this is your first Flutter project:
+## How to Play
+1. Open the app and log in using Firebase Auth.
+2. Select your game mode: play with a friend or against the computer.
+3. Choose a language: Arabic, English, or German.
+4. Enjoy the game!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## 🎥 Demo Video
-[Click here to watch the demo](WhatsApp Video 2025-11-30 at 21.56.48_4f940c57.mp4)
-
-
-## 🎥 Demo Video
-
-<video width="100%" controls>
-  <source src="WhatsApp Video 2025-11-30 at 21.56.48_4f940c57.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## License
+This project is open-source and free to use for educational purposes.
